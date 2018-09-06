@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "725343970151",
+    "firebase_url": "https://doctor-patient-portal-83e4b.firebaseio.com",
+    "project_id": "doctor-patient-portal-83e4b",
+    "storage_bucket": "doctor-patient-portal-83e4b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:725343970151:android:e2480625b011f8bd",
+        "android_client_info": {
+          "package_name": "softwareengineering.doctor_patient"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "725343970151-4rnfq3fc27fd4jgij8k7tr60tv728u8k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-gBZcWHfLy-LkhsDHeXyqPTQr6E1ZNaM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
